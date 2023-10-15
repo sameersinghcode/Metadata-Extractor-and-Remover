@@ -1,9 +1,6 @@
 # Metadata Extractor and Remover
 This project provides a utility for extracting and removing metadata from files.
 
-## Badges
-[Add your badges here]
-
 ## Requirements
 - Python 3.5 or later
 - exiftool
